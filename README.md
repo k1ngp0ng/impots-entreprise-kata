@@ -17,6 +17,7 @@ Par ailleurs, le calcul des impôts devra respecter les règles de gestion suiva
 
 Pour les auto-entreprises :
 * impôts = 25% du CA annuel de l'entreprise
+
 Pour les SAS :
 * impôts = 33% du CA annuel de l'entreprise
 

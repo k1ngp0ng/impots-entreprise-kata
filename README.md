@@ -4,13 +4,13 @@ calculer les impôts dus par les entreprises françaises.
 
 Dans un premier temps, ce programme devra gérer 2 types d'entreprise :
 * Les auto-entreprises, qui ont les propriétés suivantes :
-** N° SIRET
-** Dénomination
+   * N° SIRET
+   * Dénomination
 
 * Les SAS, qui ont les propriétés suivantes :
-** N° SIRET
-** Dénomination
-** Adresse du siège social
+   * N° SIRET
+   * Dénomination
+   * Adresse du siège social
 
 Le programme sera étendu par la suite avec d'autres types d'entreprise (SASU, SARL ...)
 Par ailleurs, le calcul des impôts devra respecter les règles de gestion suivantes :
